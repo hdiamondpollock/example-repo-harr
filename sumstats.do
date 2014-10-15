@@ -1,4 +1,5 @@
 * Author: Harrison Diamond Pollock
+* Date last modified: October 15, 2014
 
 * Calculate some summary statistics for auto.dta.
 
