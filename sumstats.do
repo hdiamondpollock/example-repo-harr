@@ -1,3 +1,5 @@
+* Author: Harrison Diamond Pollock
+
 * Calculate some summary statistics for auto.dta.
 
 version 10
